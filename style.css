@@ -1,0 +1,21 @@
+body{
+ background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(37.jpg);
+background-size: cover;
+ background-position : center;
+}
+.container{
+	
+	height;1000px;
+	width:1000px;
+}
+.login-box{
+	max-width : 700px ;
+	float : none;
+	margin:100px auto;
+	background-color:transparent !important;
+}
+
+.row{
+	
+	margin-right:100px;
+}
